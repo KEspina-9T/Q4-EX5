@@ -1,0 +1,55 @@
+.container {
+	padding: 20px;
+	background-color: #ae8569;
+	font-family: 'Crimson Text';
+	border-radius: 30px;
+	text-align: left;
+	color: #dcac86;
+}
+
+body {
+	background-color: #dcac86;
+	margin-top: 40px;
+}
+
+h1 {
+	font-family: 'Emblema One';
+	text-align: center;
+	color: #67392c;
+	font-size: 50px;
+}
+
+.btn {
+	background-color: #936241;
+	color: #dcac86;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: #67392c;
+	color: #dcac86;
+}
+
+.footer {
+	background-color: #936241;
+	color: #dcac86;
+	text-align: center;
+	padding: 10px 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: #67392c;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #dcac86;
+}
